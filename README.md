@@ -65,13 +65,13 @@ rag-system/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone  https://github.com/Himaja142006/psychology-rag-system.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd rag-system
+cd psychology-rag-system
 ```
 
 ### 3. Create a virtual environment
